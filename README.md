@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abel Shibabaw
 =====================================================================================================================================
 
-programmer, web/app developer
+Developer, Web/App
 -----------------------------
 
 * 🌍  I'm based in Addis Ababa
 * ✉️  You can contact me at [abelcosmic1@gmail.com](mailto:abelcosmic1@gmail.com)
 * 🧠  I'm learning computer science and hope to learn data science as a major course of my choice
-* 🤝  I'm open to collaborating on web based and interesting projects as a developer and designer
+* 🤝  I'm open to collaborate in interesting projects as a developer and designer mostly backend..
 * ⚡  I'm a Math addict , Let all the hate come to me 🙂
 
 <a href="https://www.github.com/abel-cosmic" target="_blank" rel="noreferrer"><img
