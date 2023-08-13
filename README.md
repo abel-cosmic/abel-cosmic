@@ -21,10 +21,6 @@ src="https://img.shields.io/twitter/follow/sarcisticlove?logo=twitter&style=for-
     <img src="https://skillicons.dev/icons? 
        i=git,kubernetes,docker,c,cpp,css,dart,figma,flutter,github,html,java,js,laravel,kotlin,linux,mongodb,mysql,netlify,nodejs,postgres,postman,react,tailwind,vite" />
   </a>
-  <a>
-    ![image](https://github.com/abel-cosmic/abel-cosmic/assets/119308986/4a569119-4b0e-4e00-80d1-33791b75e808)
-
-  </a>
 </p>
 
 ### Languages and Tools:
