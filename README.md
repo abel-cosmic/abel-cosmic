@@ -18,7 +18,7 @@ src="https://img.shields.io/twitter/follow/sarcisticlove?logo=twitter&style=for-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,css,dart,figma,flutter,github,html,java,js,laravel,kotlin,linux,mongodb,mysql,netlify,nodejs,postgres,postman,react,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,cpp,css,dart,figma,flutter,github,html,java,js,kotlin,linux,mongodb,mysql,netlify,nodejs,postgres,postman,react,tailwind,vite" />
   </a>
 </p>
 
