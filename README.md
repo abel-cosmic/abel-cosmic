@@ -35,7 +35,7 @@ src="https://img.shields.io/twitter/follow/sarcisticlove?logo=twitter&style=for-
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="VueJs" src="https://img.shields.io/badge/-Vue-267E7C?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-4D588E?style=flat-square&logo=php&logoColor=white" />
-<img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E8392C?style=flat-square&logo=laravel&logoColor=white" />
+<!-- <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E8392C?style=flat-square&logo=laravel&logoColor=white" /> -->
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-66B1F1?style=flat-square&logo=flutter&logoColor=white" />
 <h3>Databases</h3>
 <h3>Tools</h3>
