@@ -5,7 +5,7 @@ Developer, Web/App
 ------------------
 
 * 🌍  I'm based in I'm based in Addis Ababa
-* ✉️  You can contact me at [abelshibabaw0@gmail.com](mailto:abelshibabaw0@gmail.com)
+* ✉️  You can contact me at [abelshibabaw0@gmail.com](mailto:abelshibabaw291@gmail.com)
 * 🧠  I'm learning I'm learning computer science and hope to learn data science as a major course of my choice
 * 🤝  I'm open to collaborating on I'm open to collaborate in interesting projects as a developer and designer mostly backend..
 * ⚡  I'm a Math addict , Let all the hate come to me slightly\_smiling\_face
