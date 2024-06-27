@@ -165,7 +165,13 @@ Developer, Web/App
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="VsCode" />
       <br>Express
     </td>
+     </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="VsCode" />
+      <br>NestJs
     </td>
+
+  </td>
  </tr>
 </table>
 <br><br>
