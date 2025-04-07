@@ -15,34 +15,45 @@ Full Stack Software Enginner
 
  <table>
         <tr>
-          <td>
+          <td align="center" width="96">
               <a href="https://www.github.com/abel-cosmic" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="icon" width="65" height="65" />
+              </br>
+               Github
               </a>
           </td>
-          <td>
+          <td align="center" width="96">
               <a href="http://www.instagram.com/__.abel_" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-              </a> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="icon" width="65" height="65" />
+              </br>
+               Instagram
+              </a>
           </td>
-          <td>
+          <td align="center" width="96">
               <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abel-shibabaw-4b3b6125a/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-              </a> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="icon" width="65" height="65"/>
+              </br>
+               Linkedin
+              </a>
           </td>
-          <td>
+          <td align="center" width="96">
               <a href="https://www.stackoverflow.com/users/21054044/abelcosmic" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="icon" width="65" height="65"/>
+              </br>
+               StackOverflow
               </a> 
           </td>
-          <td>
+          <td align="center" width="96">
              <a href="https://www.twitter.com/sarcisticlove" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-            </a> 
+                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="icon" width="65" height="65" />
+              </br>
+               Twitter
+              </a> 
           </td>
         </tr>
  </table>
 <br />
+
 #  💻 My favorite tools and technologies
 
 <div style="display: flex; align-items: flex-start; align: center">
