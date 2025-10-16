@@ -30,7 +30,7 @@ Full Stack Software Enginner
               </a>
           </td>
           <td align="center" width="96">
-              <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abel-shibabaw-4b3b6125a/" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/abel-shibabaw-4b3b6125a/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="icon" width="65" height="65"/>
               </br>
                Linkedin
