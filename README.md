@@ -6,7 +6,7 @@ Full Stack Software Enginner
 
 * 🌍  I'm based in I'm based in Addis Ababa
 * ✉️  You can contact me at [abelshibabaw291@gmail.com](mailto:abelshibabaw291@gmail.com)
-* 🧠  I have a bachelo's in Computer Science and with ove 3+ years of experience in working as a full stack developer
+* 🧠  I have a bachelor's in Computer Science working as a full stack developer
 * 🤝  I'm open to collaborating on I'm open to collaborate in interesting projects as a software enginner and developer
 * ⚡  I'm a Math addict , Let all the hate come to me slightly\_smiling\_face
 * 💪🏾 I mainly work in Content Management System, AI automation projects, CRM systems, Ecommerce Websites, Enterprise Resource Planning systems and many more...
